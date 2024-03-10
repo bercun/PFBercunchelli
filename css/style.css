@@ -41,7 +41,7 @@
 /* inicio de banner */
 .Jumbotron {
   height: 400px;
-  background-image: url(./media/img/pan_dulce_duo-min.jpg);
+  background-image: url(../media/img/pan_dulce_duo-min.jpg);
   font-weight: bolder;
   background-position: center;
   background-size: cover;
@@ -71,7 +71,7 @@ h2 {
 
 /* inicio de presentacion de productos */
 .prod-left {
-  background-image: url(./media/img/pastafrola_cerca-min.jpg);
+  background-image: url(../media/img/pastafrola_cerca-min.jpg);
   height: 200px;
   background-position: center;
   background-size: cover;
@@ -83,7 +83,7 @@ h2 {
 }
 
 .prod2-left {
-  background-image: url(./media/img/pan_d_lado-min.jpg);
+  background-image: url(../media/img/pan_d_lado-min.jpg);
   height: 200px;
   background-position: center;
   background-size: cover;
@@ -95,7 +95,7 @@ h2 {
 }
 
 .prod3-left {
-  background-image: url(./media/img/pasta_rellena-min.jpg);
+  background-image: url(../media/img/pasta_rellena-min.jpg);
   height: 200px;
   background-position: center;
   background-size: cover;
@@ -108,7 +108,7 @@ h2 {
 /* fin de presentacion de productos */
 /* inicio de presentacion de sevicios */
 .serv-left {
-  background-image: url(./media/img/yo_cortando-min.jpg);
+  background-image: url(../media/img/yo_cortando-min.jpg);
   height: 200px;
   background-position: center;
   background-size: cover;
@@ -120,7 +120,7 @@ h2 {
 }
 
 .serv2-left {
-  background-image: url(./media/img/delivery-guy-1424808_1280.png);
+  background-image: url(../media/img/delivery-guy-1424808_1280.png);
   height: 200px;
   background-position: top;
   background-size: cover;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .serv3-left {
-  background-image: url(./media/img/alfajores_choco_p-min.jpg);
+  background-image: url(../media/img/alfajores_choco_p-min.jpg);
   height: 200px;
   background-position: center;
   background-size: cover;
@@ -160,7 +160,7 @@ h3 {
   height: 150px;
   width: 90%;
   /* border: 20px solid red; */
-  background-image: url(./media/img/pan_d_lado.jpg);
+  background-image: url(../media/img/pan_d_lado.jpg);
   background-position: center;
   background-size: cover;
   margin: 0 auto;
