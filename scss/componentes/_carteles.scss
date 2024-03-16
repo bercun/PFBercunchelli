@@ -1,0 +1,55 @@
+
+/* inicio de banner */
+.Jumbotron {
+    height: 400px;
+    background-image: url(../media/img/pan_dulce_duo-min.jpg);
+    font-weight: bolder;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+.sombras {
+    text-shadow: 0 0 5px $negro;
+
+}
+
+/* fin de banner */
+
+
+/* inicio de banner logo*/
+.jumbotron-logo {
+    height: 400px;
+    width: 80%;
+    background-image: url(../../media/img/logoObrador.png);
+    font-weight: bolder;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:auto;
+
+}
+
+.bg-primary{
+    background-color: $fondo !important;
+
+}
+
+
+.sombras-logo {
+    color: $color1;
+    text-shadow: 0 0 5px $fondo_res;
+
+}
+
+/* fin de banner */
+
+/* inicio del carrousel */
+
+.carousel-item {
+    width: vw;
+    max-height: 500px;
+
+}
+
+/* fin del carrousel */
