@@ -58,6 +58,12 @@ h2 {
   margin-bottom: 0;
 }
 
+/* inico de encabezado de productos pagProductos.html */
+h3 {
+  margin-left: 10px;
+}
+
+/* fin  de encabezado de productos pagProductos.html */
 /* iniciobarra de navegacion */
 .navbar {
   background-color: #D9D9D9;
@@ -97,12 +103,12 @@ h2 {
 /* inicio de banner logo*/
 .jumbotron-logo {
   height: 400px;
-  width: 80%;
+  max-width: 800px;
   background-image: url(../../media/img/logoObrador.png);
   font-weight: bolder;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: contain;
 }
 
 .bg-primary {
@@ -196,12 +202,6 @@ h2 {
 }
 
 /* fin de presentacion de sevicios */
-/* inico de encabezado de productos pagProductos.html */
-h3 {
-  margin-left: 10px;
-}
-
-/* fin  de encabezado de productos pagProductos.html */
 /* inicio imagen de corte productos 2  */
 .imagen-de-corte2 {
   height: 200px;
@@ -226,78 +226,9 @@ h3 {
 }
 
 /* fin de lista de productos pagProductos.html */
-.prod-left {
-  background-image: url(../media/img/pastafrola_cerca-min.jpg);
-  height: 200px;
-  background-position: center;
-  background-size: cover;
-  margin-bottom: 40px;
+.center_recetas {
+  margin: 0 auto;
+  width: 90vw;
 }
-
-.prod-right {
-  padding: 20px;
-}
-
-.prod2-left {
-  background-image: url(../media/img/pan_d_lado-min.jpg);
-  height: 200px;
-  background-position: center;
-  background-size: cover;
-  margin-bottom: 40px;
-}
-
-.prod2-right {
-  padding: 20px;
-}
-
-.prod3-left {
-  background-image: url(../media/img/pasta_rellena-min.jpg);
-  height: 200px;
-  background-position: center;
-  background-size: cover;
-}
-
-.prod3-right {
-  padding: 20px;
-}
-
-/* fin de presentacion de productos */
-/* inicio de presentacion de sevicios */
-.serv-left {
-  background-image: url(../../media/img/yo_cortando.jpg);
-  height: 200px;
-  background-position: center;
-  background-size: cover;
-  margin-bottom: 40px;
-}
-
-.serv-right {
-  padding: 20px;
-}
-
-.serv2-left {
-  background-image: url(../media/img/delivery-guy-1424808_1280.png);
-  height: 200px;
-  background-position: top;
-  background-size: cover;
-  margin-bottom: 40px;
-}
-
-.serv2-right {
-  padding: 20px;
-}
-
-.serv3-left {
-  background-image: url(../media/img/alfajores_choco_p-min.jpg);
-  height: 200px;
-  background-position: center;
-  background-size: cover;
-}
-
-.serv3-right {
-  padding: 20px;
-}
-
-/* fin de presentacion de sevicios */
 
 /*# sourceMappingURL=style.css.map */

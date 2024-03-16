@@ -21,12 +21,12 @@
 /* inicio de banner logo*/
 .jumbotron-logo {
     height: 400px;
-    width: 80%;
+    max-width: 800px;
     background-image: url(../../media/img/logoObrador.png);
     font-weight: bolder;
-    background-position:center;
+    background-position:right;
     background-repeat: no-repeat;
-    background-size:auto;
+    background-size:contain;
 
 }
 
