@@ -246,12 +246,13 @@ h3 {
   align-items: center;
   background-color: #F2F2F2;
   width: 70vw;
-  height: 50vh;
+  height: 80vh;
   max-width: 600px;
   max-height: 600px;
   border: 1px solid black;
   border-radius: 25px;
   margin: auto;
+  padding: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
