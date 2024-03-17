@@ -11,6 +11,15 @@ body {
 }
 
 /*formato de la pagina para que no se vea la scrollbar horizonatal  */
+.login-main {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../../media/img/icono_obrador.png);
+  background-repeat: repeat;
+  background-size: 3%;
+  padding-top: 40px;
+}
+
 /* inicio de footer */
 footer {
   background-color: white;
@@ -229,6 +238,20 @@ h3 {
 .center_recetas {
   margin: 0 auto;
   width: 90vw;
+}
+
+.login-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F2F2F2;
+  width: 70vw;
+  height: 50vh;
+  max-width: 600px;
+  max-height: 600px;
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: auto;
 }
 
 /*# sourceMappingURL=style.css.map */
