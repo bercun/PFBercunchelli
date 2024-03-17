@@ -20,6 +20,13 @@ body {
   padding-top: 40px;
 }
 
+.main-about {
+  width: 100vw;
+  height: 1500px;
+  background-color: #bf0b2c;
+  background-image: linear-gradient(135deg, #bf0b2c 0%, #8c182d 12%, #d94169 23%, #ae4c4c 36%, #f2f2f2 80%, #ffffff 100%);
+}
+
 /* inicio de footer */
 footer {
   background-color: white;
@@ -27,6 +34,7 @@ footer {
   padding: 5px;
   text-align: center;
   font-size: medium;
+  margin-top: 40px;
 }
 
 footer .redes {
@@ -73,6 +81,12 @@ h3 {
 }
 
 /* fin  de encabezado de productos pagProductos.html */
+.titulo-about {
+  background-color: rgba(255, 255, 255, 0.034) !important;
+  margin-bottom: 50px;
+  padding-top: 30px;
+}
+
 /* iniciobarra de navegacion */
 .navbar {
   background-color: #D9D9D9;
@@ -137,6 +151,19 @@ h3 {
 }
 
 /* fin del carrousel */
+.img-about {
+  width: 70vw;
+  height: 80vh;
+  border: 0px solid #F20707;
+  border-radius: 25px;
+  margin: 0 auto;
+  background-image: url(../../media/img/pan_dulce_duo-min.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 80px;
+}
+
 /* inicio de presentacion de productos */
 .prod-left {
   background-image: url(../media/img/pastafrola_cerca-min.jpg);
@@ -253,6 +280,19 @@ h3 {
   border-radius: 25px;
   margin: auto;
   padding: 15px;
+}
+
+.texto-about {
+  width: 80vw;
+  height: 60vh;
+  border: 0px solid black;
+  border-radius: 25px;
+  padding: 20px;
+  text-shadow: 0 0 1px black;
+  background-color: rgba(255, 255, 255, 0.062);
+  margin: 0 auto;
+  margin-bottom: 60px;
+  overflow: auto;
 }
 
 /*# sourceMappingURL=style.css.map */

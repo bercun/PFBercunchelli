@@ -53,3 +53,23 @@
 }
 
 /* fin del carrousel */
+
+
+// cartel about
+
+.img-about{
+    width:70vw;
+    height: 80vh;
+    border:  0px solid $color1;
+    border-radius: 25px;
+    margin: 0 auto;
+    background-image: url(../../media/img/pan_dulce_duo-min.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-top: 80px;
+   
+
+}
+
+// fin cartel about
