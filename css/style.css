@@ -109,6 +109,10 @@ h3 {
 }
 
 /* fin de barra de navegacion */
+.form-control {
+  width: 5px !important;
+}
+
 /* inicio de banner */
 .Jumbotron {
   height: 400px;
