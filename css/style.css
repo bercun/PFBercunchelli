@@ -27,6 +27,10 @@ body {
   background-image: linear-gradient(135deg, #bf0b2c 0%, #8c182d 12%, #d94169 23%, #ae4c4c 36%, #f2f2f2 80%, #ffffff 100%);
 }
 
+.main-carrito {
+  margin-top: 40px;
+}
+
 /* inicio de footer */
 footer {
   background-color: white;
@@ -284,6 +288,22 @@ h3 {
   border-radius: 25px;
   margin: auto;
   padding: 15px;
+}
+
+.carrito-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F2F2F2;
+  width: 90vw;
+  height: 80vh;
+  max-width: 600px;
+  max-height: 600px;
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: auto;
+  padding: 15px;
+  overflow: auto;
 }
 
 .texto-about {

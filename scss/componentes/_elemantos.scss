@@ -142,8 +142,29 @@
 
 // formato de login-box
 
+// inicio formato carrito-box
+.carrito-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $fondo_res;
+    width: 90vw;
+    height: 80vh;
+    max-width: 600px;
+    max-height: 600px;
+    border: 1px solid $negro;
+    border-radius: 25px;
+    margin: auto;
+    padding: 15px;
+    overflow: auto;
+
+}
+//fin formato carrito-box
+
+
 // contendor de texto-about
- .texto-about{
+
+.texto-about{
     width: 80vw;
     height: 60vh;
     border: 0px solid $negro;
