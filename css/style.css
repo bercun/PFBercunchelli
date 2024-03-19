@@ -14,7 +14,7 @@ body {
 .login-main {
   width: 100vw;
   height: 100vh;
-  background-image: url(../../media/img/icono_obrador.png);
+  background-image: url(../media/img/icono_obrador.png);
   background-repeat: repeat;
   background-size: 3%;
   padding-top: 40px;
