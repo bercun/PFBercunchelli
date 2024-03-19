@@ -226,7 +226,7 @@ h3 {
 /* fin de presentacion de productos */
 /* inicio de presentacion de sevicios */
 .serv-left {
-  background-image: url(../../media/img/yo_cortando.jpg);
+  background-image: url(../media/img/yo_cortando.jpg);
   height: 200px;
   background-position: center;
   background-size: cover;
