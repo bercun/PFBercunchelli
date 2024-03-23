@@ -15,7 +15,7 @@ body {
   height: 100vh;
   background-image: url(../media/img/icono_obrador.png);
   background-repeat: repeat;
-  background-size: 3%;
+  background-size: 1.5%;
   padding-top: 40px;
 }
 
@@ -27,7 +27,12 @@ body {
 }
 
 .main-carrito {
-  margin-top: 40px;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../media/img/icono_obrador.png);
+  background-repeat: repeat;
+  background-size: 1.5%;
+  padding-top: 40px;
 }
 
 /* inicio de footer */
@@ -167,8 +172,12 @@ h3 {
 
 /* fin de banner */
 /* inicio del carrousel */
+carrousel {
+  width: 100vw;
+}
+
 .carousel-item {
-  width: vw;
+  width: 100vw;
   max-height: 500px;
 }
 
@@ -265,11 +274,13 @@ h3 {
   height: 200px;
   width: 80%;
   margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .conteinerimg {
   height: 150px;
-  width: 70%;
+  width: 80%;
   background-image: url(../../media/img/pan_d_lado-min.jpg);
   background-position: center;
   background-size: cover;
@@ -331,6 +342,11 @@ h3 {
   margin: 0 auto;
   margin-bottom: 60px;
   overflow: auto;
+}
+
+.list-group-item.active {
+  background-color: #F20707;
+  border-color: #F20707;
 }
 
 /*# sourceMappingURL=style.css.map */

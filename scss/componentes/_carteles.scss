@@ -46,8 +46,12 @@
 
 /* inicio del carrousel */
 
+carrousel{
+    width: 100vw;
+} 
+
 .carousel-item {
-    width: vw;
+    width: 100vw;
     max-height: 500px;
 
 }

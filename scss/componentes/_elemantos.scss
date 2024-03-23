@@ -90,12 +90,14 @@
     height: 200px;
     width: 80%;
     margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 .conteinerimg {
     height: 150px;
-    width: 70%;
+    width: 80%;
     background-image: url(../../media/img/pan_d_lado-min.jpg);
     background-position: center;
     background-size: cover;
@@ -176,5 +178,12 @@
     overflow: auto;
 
  }
+
+//  modificador tarjetas de productos
+.list-group-item.active {
+    background-color: $color1;
+    border-color: $color1;
+}
+//  fin modificador tarjetas de productos
 
 // fin contendor de texto-about
