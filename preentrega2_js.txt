@@ -1,0 +1,17 @@
+En esta pre entrega 2 del curso de javaScript tengo que usar :
+
+codificar funcionalidad incial del simulador
+flujo de trabajo captura de entradas(promt)
+procesar el promt y mostrar resultado
+
+
+formato html y codigo javaScript 
+formato PreEntrega2+Apellido
+
+
+usar 
+estrucura html, css, javaScript
+
+objetos
+arrays 
+metodos de busqueda y filtrados por arrays 
